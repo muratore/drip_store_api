@@ -1,0 +1,22 @@
+{
+  "name": "drip-store-api",
+  "version": "1.0.0",
+  "description": "Fonte: [https://expressjs.com/en/starter/hello-world.html](https://expressjs.com/en/starter/hello-world.html)",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^7.4.2",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {}
+}
